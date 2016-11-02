@@ -3,19 +3,18 @@ Escribir el CSS necesario aqui
 */
 p{
     border: 1px dashed black;
-    background-color: white;
-    text-align: center;
-    padding-bottom: 30px;
-    margin: 30px 20px 40px 50px;
+    background: white;
+    padding: 5px;
    
 }
 
 div {
-    background-color: mistyrose;
-    border-width: 40px 20px 40px 20px;
-    border-style: purple;
-    border-color: aqua;
-    padding: 20px 30px 30px 10px;
+    background: #ffbb99;
+    padding: 10px 10px 30px 100px;
+    border-style: solid;
+    border-color: purple;
+    border-width: 8px 4px;
+    text-align: center;
     
     
 }
